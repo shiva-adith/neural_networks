@@ -1,0 +1,5 @@
+# Ignore model folder
+my_model
+
+# Ignore IPYNB checkpoints
+.ipynb_checkpoints
