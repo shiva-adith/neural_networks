@@ -3,3 +3,6 @@ my_model
 
 # Ignore IPYNB checkpoints
 .ipynb_checkpoints
+
+# Ignore datasets folder
+datasets
