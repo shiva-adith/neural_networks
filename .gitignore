@@ -7,5 +7,3 @@ my_model
 # Ignore datasets folder
 datasets
 
-# Ignore MNIST folder
-MNIST
