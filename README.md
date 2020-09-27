@@ -1,5 +1,55 @@
-# neural_networks
+# Neural Networks
+
+This repo is a collection of simple image classifiers using neural networks.
+
+----
+## <ins>Table of Contents:</ins>
+
+<ul>
  
+ - [Technologies](#technologies)
+ - [Libraries](#installation-of-libraries)
+ - [CIFAR10](#cifar10-dataset)
+
+</ul>
+
+## <ins>Technologies</ins>
+
+<ul>
+ <li>Python v3.x</li>
+ <li>Tensorflow v2.x or Tensorflow-GPU v2.x</li>
+ <li>PyTorch v1.5.x</li>
+ <li>OpenCV v4.3.x</li>
+ <li>Numpy</li>
+ <li>Matplotlib</li>
+</ul>
+
+----
+
+## <ins>Installation of libraries:</ins>
+
+***Tensorflow:***
+
+``` pip install tensorflow```
+
+---
+>***NOTE:*** If your system has a CUDA compatible GPU (Nvidia cards):</p>
+
+
+>``` pip install tensorflow-gpu```
+
+---
+
+## <ins>CIFAR10 Dataset</ins>
+
+<p>The CIFAR dataset is an enormous collection of images belonging to ten diferent classes.</p>
+<br/>
+
+<img src="https://miro.medium.com/max/875/1*syyml8q8s1Yt-iEea5m1Ag.png" alt="cifar-img" width="50%">
+
+<h3><u>Results:</u></h3>
+
+
 This project uses Convolutional Neural Networks to classify images into Rock, Paper or Scissors.
 
 ## Network Architecture<br>
