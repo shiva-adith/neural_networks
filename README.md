@@ -40,7 +40,7 @@ This repo is a collection of simple image classifiers using neural networks.
 
 ---
 
-## <ins>CIFAR10 Dataset</ins>
+## <ins>CIFAR10</ins>
 
 <p>The CIFAR dataset is an enormous collection of images belonging to ten diferent classes.</p>
 <br/>
@@ -49,8 +49,6 @@ This repo is a collection of simple image classifiers using neural networks.
 
 <h3><u>Results:</u></h3>
 
-
-This project uses Convolutional Neural Networks to classify images into Rock, Paper or Scissors.
 
 ## Network Architecture<br>
 I have used **Tensorflow** and **Keras** here to create the neural networks. There are three sections to the project:
@@ -61,7 +59,9 @@ I have used **Tensorflow** and **Keras** here to create the neural networks. The
 </ol>
 
 ## Dataset<br>
-<ul>
- <li>The dataset <em><strong>rock_paper_scissors</strong></em> is loaded from the <strong>tensorflow_datasets</strong> library</li>
-</ul>
- 
+
+
+## <ins>Dogs or Cats?</ins>
+
+The program aims to distinguish between dogs and cats in an image.
+

@@ -7,3 +7,6 @@ my_model
 # Ignore datasets folder
 datasets
 
+# Ignore PyCharm folder
+.idea
+
